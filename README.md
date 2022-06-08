@@ -28,7 +28,7 @@ I'm also the ultimate cat dad and a wannabe marathon runner 😁
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tudornicoara&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudornicoara&repo=ChatBoxSimple)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudornicoara&repo=ChatBoxSimple&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudornicoara&repo=DatingApp2)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudornicoara&repo=reactivities)](https://github.com/anuraghazra/github-readme-stats)
 
