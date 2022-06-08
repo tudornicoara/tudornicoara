@@ -15,5 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# About
+I'm a fullstack developer looking to show my contribution in the tech world.
+I'm also the ultimate cat dad and a wannabe marathon runner 😁
+
+# Reach out to me
+<a href = "https://www.linkedin.com/in/tudor-nicoara-a38909142/">
+  <img src = "Logos/LinkedIn.png" width = "auto" height = "50px" />
+</a>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tudornicoara&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
