@@ -29,8 +29,8 @@ I'm also the ultimate cat dad and a wannabe marathon runner 😁
 
 # Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudornicoara&repo=ChatBoxSimple&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudornicoara&repo=DatingApp2)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudornicoara&repo=reactivities)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudornicoara&repo=DatingApp2&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudornicoara&repo=reactivities&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
