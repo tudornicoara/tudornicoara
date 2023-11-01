@@ -20,7 +20,7 @@ I'm a fullstack developer looking to show my contribution in the tech world.
 I'm also the ultimate cat dad and a wannabe marathon runner 😁
 
 # Reach out to me
-<a href = "https://www.linkedin.com/in/tudor-nicoara-a38909142/">
+<a href = "https://www.linkedin.com/in/tudor-nicoara/">
   <img src = "Logos/LinkedIn.png" width = "auto" height = "50px" />
 </a>
 
@@ -28,6 +28,7 @@ I'm also the ultimate cat dad and a wannabe marathon runner 😁
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tudornicoara&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudornicoara&repo=Carsties&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudornicoara&repo=ChatBoxSimple&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudornicoara&repo=DatingApp2&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudornicoara&repo=reactivities&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
